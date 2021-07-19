@@ -6,8 +6,14 @@
 .celeste{
   background-color: #03E6F9;
 }
+.bg-black{
+  background-color: #000000;
+}
+.carousel-item img {
+  max-height: 700px;
+}
 .hr{
-  width: 98%;
+  width: 100%;
   height: 2px;
-  margin: 2px auto;
+  
 }
