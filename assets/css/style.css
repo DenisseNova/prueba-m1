@@ -1,0 +1,13 @@
+.miNav {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}
+.celeste{
+  background-color: #03E6F9;
+}
+.hr{
+  width: 98%;
+  height: 2px;
+  margin: 2px auto;
+}
