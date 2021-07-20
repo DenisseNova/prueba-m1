@@ -28,3 +28,12 @@
   overflow-y: auto;
   margin-bottom: 20px;
 }
+.card-title {
+  cursor: pointer;
+}
+h3{
+  font-family: 'Raleway';
+}
+p{
+  font-family: 'Raleway';
+}
