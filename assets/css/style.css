@@ -4,6 +4,9 @@
   width: 100%;
   color: #ffffff;
 }
+.navbar-collapse.show, .navbar-collapse.collapsing{
+  background-color: rgba(50,50, 50, .7);
+}
 .celeste{
   background-color: #03E6F9;
 }
